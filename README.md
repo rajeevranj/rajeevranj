@@ -22,11 +22,7 @@ I am a recent graduate with a strong foundation in computer applications and a p
   - Indira Gandhi National Open University, New Delhi
   - Percentage: 71%
   - August 2016 - December 2020
-
-- 12th: Science
-  - T. P. Verma College, Narkatiaganj
-  - Percentage: 61.2%
-  - July 2013 - August 2015
+  - 
 ## Internship
 - Data Science Intern
   - Shiash Info Solutions Private Limited, Chennai, India
@@ -54,13 +50,6 @@ I am a recent graduate with a strong foundation in computer applications and a p
 - Basic & Intermediate Problem Solving Certification from HackerRank
   - [View Certificate](https://www.hackerrank.com/certificates/fafe94494411)
 
-## Other Accomplishments
-- Campus Leader (Leadership skill & Team Management)
-  - Organisation: Techlearn
-  - Period: 4 weeks (February-March 2022)
-
-- XPECTO’22 Tech Festival Certifications from IIT Mandi
-
 ## Projects
 - Online Stock Market Trading Application
   - Description: The development of an online stock market trading application aims to provide a comprehensive and user-friendly platform for users to engage in stock trading, portfolio management, and market analysis.
@@ -73,11 +62,6 @@ I am a recent graduate with a strong foundation in computer applications and a p
 - Social Site Application
   - Description: The development of a social networking application aims to provide a platform for users to connect, share content, messaging, and privacy controls. The application enables users to express themselves.
   - Technology: HTML, CSS, JSP, MySQL
-
-## Hobbies and Interests
-- Book Reading
-- Travelling
-- Cooking
 
 ## Programming Platform
 - HackerRank: [hackerrank.com/Rajeev_1](https://www.hackerrank.com/Rajeev_1)
