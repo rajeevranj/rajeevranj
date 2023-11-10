@@ -16,7 +16,7 @@ I am a recent graduate with a strong foundation in computer applications and a p
 - MCA: Computer Applications
   - Sri Venkateswara College Of Engineering And Technology, Chittoor
   - CGPA: 8.5
-  - August 2021 - Present
+  - August 2021 - September 2023
 
 - BCA: Computer Applications
   - Indira Gandhi National Open University, New Delhi
